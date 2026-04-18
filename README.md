@@ -5,9 +5,8 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=r2adkr&show_icons=true&theme=dark" alt="r2adkr's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r2adkr&layout=compact&theme=dark" alt="r2adkr's GitHub stats" />
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r2adkr&layout=compact&theme=dark)
 
 ### 🛠 Mainly Working With
 > 주로 사용하는 스택
